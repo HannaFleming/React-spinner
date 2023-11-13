@@ -1,3 +1,4 @@
 # Getting Started with Create React App
 
-![Screenshot 2023-11-13 101711](https://github.com/HannaFleming/spinner-react/assets/124400864/a09d3d27-1575-4827-ae82-f0559ebac466)
+
+![Screenshot 2023-11-13 101711](https://github.com/HannaFleming/spinner-react/assets/124400864/872c72b7-b0d4-44e0-beba-4aa84e660431)
